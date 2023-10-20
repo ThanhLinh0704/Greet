@@ -21,8 +21,9 @@ body {
     position: fixed;
     height: 100%;
     width: 100%;
-    background-color: rgba(72, 209, 204, 1);
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/472/319/661/anime-original-fantasy-whale-hd-wallpaper-preview.jpg);
+    background-color: rgb(128, 134, 240);
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/472/319/661/anime-original-fantasy-whale-hd-wallpaper-preview.jpg); */
+    im
 }
 
 .startLetter {
@@ -135,7 +136,7 @@ body {
     position: relative;
     height: 100%;
     width: 100%;
-    background-color: rgba(72, 209, 204, 1);
+    background-color: rgb(241, 143, 238);
 
     
 
